@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package>
+  <name>ros_tello_perception</name>
+  <version>1.0.0</version>
+  <description>Perception modules for DJI tello driver.</description>
+
+  <maintainer email="roccamena.engineer@gmail.com">Massimiliano Roccamena</maintainer>
+
+  <license>BSD</license>
+
+  <url type="website"></url>
+
+  <author>Massimiliano Roccamena</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>std_msgs</run_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>rospy</run_depend>
+</package>
