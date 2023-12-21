@@ -15,8 +15,7 @@ find_package(catkin REQUIRED)
 ## DEPENDS: system dependencies of this project that dependent projects also need
 catkin_package(
 #  INCLUDE_DIRS include
-  CATKIN_DEPENDS dynamic_reconfigure 
-                 geometry_msgs 
+  CATKIN_DEPENDS geometry_msgs 
                 #  rospy 
                  std_msgs 
 #  DEPENDS system_lib
